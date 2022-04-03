@@ -3,6 +3,6 @@ Hi, everyone!
 This repository is created to store homework.
 
 ### Contains:
-  - Task 1
-  - Task 2
-  - Task 3
+  - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task1">Task 1</a>
+  - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task2">Task 2</a>
+  - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task3">Task 3</a>
