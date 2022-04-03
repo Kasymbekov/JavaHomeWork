@@ -1,5 +1,5 @@
 # *JavaHomeWork* 📁️
-Hi, everyone! 
+Hello, everyone! 
 This repository is created to store homework.
 
 ### Contains:
