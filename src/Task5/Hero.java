@@ -28,4 +28,13 @@ public class Hero {
     public String getPower() {
         return power;
     }
+
+    @Override
+    public String toString() {
+        return "Hero {" +
+                "health=" + health +
+                ", damage=" + damage +
+                ", power='" + power + '\'' +
+                '}';
+    }
 }

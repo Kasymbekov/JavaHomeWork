@@ -25,7 +25,6 @@ public class Main {
 
         String[] powers = {"Telekinesis", "Kinetic", "Physical", "Magical"};
         Hero[] heroes = new Hero[quantity];
-
         Random random = new Random();
 
         for (int i = 0; i < heroes.length; i++) {
@@ -41,12 +40,8 @@ public class Main {
 
     //Method to print all heroes
     public static void printHeroes(){
-        for (int i = 0; i < createHeroes().length; i++) {
-            System.out.println("------------------------------------");
-            System.out.println("Hero " + (i+1) + ":");
-            System.out.println(" -Health: " + createHeroes()[i].getHealth());
-            System.out.println(" -Damage: " + createHeroes()[i].getDamage());
-            System.out.println(" -Superpower: " + createHeroes()[i].getPower());
+        for (Hero hero : createHeroes()) {
+            System.out.println(hero);
         }
     }
 }
