@@ -9,3 +9,4 @@ This repository is created to store homework.
   - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task4/Game.java">Task 4 (Procedural programming)</a>
   - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task5">Task 5 (OOP)</a>
   - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task6">Task 6 (OOP)</a>
+  - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task7">Task 7 (Polymorphism)</a>
