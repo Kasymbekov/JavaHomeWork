@@ -1,6 +1,6 @@
 # *JavaHomeWork* 📁️
 Hello, everyone! 
-This repository is created to store homework.
+This repository is created to store homework of the Java 1 Lesson.
 
 ### Contains:
   - <a href="https://github.com/Kasymbekov/JavaHomeWork/tree/master/src/Task1/Main.java">Task 1</a>
